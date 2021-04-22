@@ -1,3 +1,4 @@
+//Phillip Horibe
 public class Emp {
 	private int id;
 	private String name, password, email, country;
